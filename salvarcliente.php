@@ -20,7 +20,12 @@
         <tr>
             <td>Nome Completo</td>
             <td><?php echo $nomeCliente; ?></td>
-            
+            td>Cpf</td>
+            <td><?php echo $cpfCliente; ?></td>
+            td>Telefone</td>
+            <td><?php echo $foneCliente; ?></td>
+            td>Email</td>
+            <td><?php echo $emailCliente; ?></td>
         </tr>
     </table>
 </body>
